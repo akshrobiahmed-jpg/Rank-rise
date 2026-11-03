@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RANKRISE</string>
+    <string name="exam_lock_service_description">Monitors distraction apps during active study sessions in RANKRISE to keep you focused on Class 9 exam preparation.</string>
+</resources>
